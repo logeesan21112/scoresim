@@ -1,16 +1,24 @@
-# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+# LinkedIn carousel (separate project)
+linkedin carousel/
 
-# dependencies
-node_modules/
+# Dependencies
+scoresim/node_modules/
 
 # Expo
-.expo/
-dist/
-web-build/
-expo-env.d.ts
+scoresim/.expo/
+scoresim/dist/
+scoresim/web-build/
+scoresim/expo-env.d.ts
+
+# Native generated folders
+scoresim/ios/
+scoresim/android/
+
+# Metro
+scoresim/.metro-health-check*
 
 # Native
-.kotlin/
+scoresim/.kotlin/
 *.orig.*
 *.jks
 *.p8
@@ -18,10 +26,7 @@ expo-env.d.ts
 *.key
 *.mobileprovision
 
-# Metro
-.metro-health-check*
-
-# debug
+# Debug
 npm-debug.*
 yarn-debug.*
 yarn-error.*
@@ -30,12 +35,14 @@ yarn-error.*
 .DS_Store
 *.pem
 
-# local env files
+# Local env files
 .env*.local
 
-# typescript
+# TypeScript
 *.tsbuildinfo
 
-# generated native folders
-/ios
-/android
+# IDE
+.idea/
+.vscode/
+.settings/
+.metadata/
