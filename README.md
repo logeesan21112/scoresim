@@ -39,23 +39,31 @@ ScoreSim is a mobile application for cricket fans to track live scores and upcom
 <td align="center"><b>Register</b></td>
 </tr>
 <tr>
-<td><img src="ADD_YOUR_SCREENSHOT_LINK_HERE" width="100%"/></td>
-<td><img src="ADD_YOUR_SCREENSHOT_LINK_HERE" width="100%"/></td>
+<td><img src="https://github.com/user-attachments/assets/4a8a4ad7-b6d3-4990-9042-3c3a57c07375" width="100%"/></td>
+<td><img src="https://github.com/user-attachments/assets/e9d984dc-817a-4a92-b46a-94afdcf1fc6e" width="100%"/></td>
 </tr>
 <tr>
 <td align="center"><b>Upcoming Matches</b></td>
 <td align="center"><b>Live Score</b></td>
 </tr>
 <tr>
-<td><img src="ADD_YOUR_SCREENSHOT_LINK_HERE" width="100%"/></td>
-<td><img src="ADD_YOUR_SCREENSHOT_LINK_HERE" width="100%"/></td>
+<td><img src="https://github.com/user-attachments/assets/82524df1-910c-4358-b59d-a073d19820ba" width="100%"/></td>
+<td><img src="https://github.com/user-attachments/assets/4440095d-cf80-4d59-b789-2efb7d856e0b" width="100%"/></td>
+</tr>
+<tr>
+<td align="center"><b>Live Score Expanded 1</b></td>
+<td align="center"><b>Live Score Expanded 2</b></td>
+</tr>
+<tr>
+<td><img src="https://github.com/user-attachments/assets/027c4c55-2699-478f-a1ea-63b870637eec" width="100%"/></td>
+<td><img src="https://github.com/user-attachments/assets/755d7088-0d77-48d7-b7f0-5ea8da7d5f65" width="100%"/></td>
 </tr>
 <tr>
 <td align="center"><b>Profile</b></td>
 <td align="center"></td>
 </tr>
 <tr>
-<td><img src="ADD_YOUR_SCREENSHOT_LINK_HERE" width="100%"/></td>
+<td><img src="https://github.com/user-attachments/assets/6be0060a-ebbb-409a-b596-4c074282b0bd" width="100%"/></td>
 <td></td>
 </tr>
 </table>
