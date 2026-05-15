@@ -29,6 +29,51 @@ ScoreSim is a mobile application for cricket fans to track live scores and upcom
 
 ---
 
+## Tech Stack
+
+**Mobile**
+- React Native 0.81.5
+- Expo SDK 54
+- React Navigation (Native Stack and Bottom Tabs)
+- AsyncStorage
+- Expo Vector Icons
+- JavaScript ES6
+
+---
+
+## Getting Started
+
+### Prerequisites
+- Node.js 18+
+- Expo Go app on your phone or Android emulator
+- npm or yarn
+
+### Run the Application
+
+1. Clone the repository
+```
+git clone https://github.com/logeesan21112/scoresim.git
+```
+
+2. Navigate to the project folder
+```
+cd scoresim
+```
+
+3. Install dependencies
+```
+npm install
+```
+
+4. Start the development server
+```
+npx expo start
+```
+
+5. Scan the QR code with **Expo Go** app on your phone or press `a` for Android emulator
+
+---
+
 ## Screenshots
 
 <div align="center">
@@ -69,18 +114,6 @@ ScoreSim is a mobile application for cricket fans to track live scores and upcom
 </table>
 
 </div>
-
----
-
-## Tech Stack
-
-**Mobile**
-- React Native 0.81.5
-- Expo SDK 54
-- React Navigation (Native Stack and Bottom Tabs)
-- AsyncStorage
-- Expo Vector Icons
-- JavaScript ES6
 
 ---
 
@@ -130,36 +163,23 @@ scoresim/
 
 ---
 
-## Getting Started
+## Academic Info
 
-### Prerequisites
-- Node.js 18+
-- Expo Go app on your phone or Android emulator
-- npm or yarn
+| Field | Detail |
+|---|---|
+| Module Code | TICT4242 |
+| Module Name | Mobile Application Development |
+| Type | Assignment |
 
-### Run the Application
+---
 
-1. Clone the repository
-```
-git clone https://github.com/logeesan21112/scoresim.git
-```
+## References
 
-2. Navigate to the project folder
-```
-cd scoresim
-```
+This project was built using an external open source project as a reference for structure and implementation.
 
-3. Install dependencies
-```
-npm install
-```
-
-4. Start the development server
-```
-npx expo start
-```
-
-5. Scan the QR code with **Expo Go** app on your phone or press `a` for Android emulator
+| Type | Link |
+|------|------|
+| 🐙 GitHub Reference | [cricapp by infynno-solutions](https://github.com/infynno-solutions/cricapp) |
 
 ---
 
